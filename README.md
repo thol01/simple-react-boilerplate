@@ -1,7 +1,7 @@
 simple-react-boilerplate
 =====================
 
-This is based on [a link] https://github.com/gaearon/react-hot-boilerplate
+This is based on [a https://github.com/gaearon/react-hot-boilerplate] 
 
 The minimal dev environment to enable live-editing React components.
 
